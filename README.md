@@ -1,5 +1,5 @@
 # Potato-Weight-Classifier
-## https://drive.google.com/file/d/0B_xVQrhfePDcTHJyNy1Rd1RJaWZ1dUF0Y0NlQ1pEaXo5Qk9N/view
+## Research Paper Published in STEM Conference 2019 https://drive.google.com/file/d/0B_xVQrhfePDcTHJyNy1Rd1RJaWZ1dUF0Y0NlQ1pEaXo5Qk9N/view
 It is a Raspberry Pi based AI system to identify the weight of
 potatoes without measuring them physically. The Raspberry Pi
 bases AI system can measure the weight of potato just by
