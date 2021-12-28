@@ -1,2 +1,2 @@
 # Potato-Weight-Classifier
-An android application to identify the weights of the potatoes just by clicking it's picture! 
+Video Demonstration <a href = "https://www.youtube.com/watch?v=EQ2Ij-xBzjU"> here </a>
